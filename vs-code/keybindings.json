@@ -2,5 +2,6 @@
 [
     { "key": "ctrl+alt+l",           "command": "editor.action.format" },
     { "key": "ctrl+shift+n",         "command": "workbench.action.quickOpen" },
-    { "key": "ctrl+b",               "command": "editor.action.goToDeclaration" }
+    { "key": "ctrl+b",               "command": "editor.action.goToDeclaration" },
+    { "key": "alt+f7",             "command": "editor.action.referenceSearch.trigger" }
 ]
