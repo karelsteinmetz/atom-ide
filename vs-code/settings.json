@@ -1,0 +1,8 @@
+{
+	"window.zoomLevel": 0,
+	"prettier.tabWidth": 4,
+	"prettier.useTabs": true,
+	"prettier.printWidth": 140,
+	"explorer.confirmDelete": false,
+	"typescript.updateImportsOnFileMove.enabled": "always"
+}
